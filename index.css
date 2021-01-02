@@ -1,0 +1,60 @@
+.main-body{
+    
+    
+}
+
+.header-top{
+    background-color: cyan;
+    height: 40px;
+}
+
+.mail{
+    
+}
+.sub-mail{
+    margin-left: 150px;
+    padding-top: 7px;
+}
+
+.gap{
+    margin-left: 10px;
+    border-left: 1px solid gray;
+    padding-left: 5px;
+}
+.conference{
+    /* padding: 5px; */
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border: 1px solid black;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.conference small{
+    background-color: white;
+    height: 100%;
+    padding: 2px;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+}
+.conference img{
+    height: 100%;
+    width: 30px;
+}
+.icon{
+    padding: 7px;
+    margin-left: 180px;
+}
+.icon img{
+    height: 100%;
+    width: 30px;
+    margin-left: 10px;
+}
+.dropdown{
+    margin-left: 100px;
+    height: 100%;
+    width: 30px;
+}
+.flag{
+    height: 100%;
+    width: 30px;
+}
